@@ -1,0 +1,7 @@
+"HWPort","Domain","DefaultGateway","ClusterID","NetzExtension","Netz","SubnetMask","DNS","Typ","Hostname","GLN_PRD","IP","AHJSGDJHG"
+"PORTHW","aaa","null","Cluster Member",".net","1","255.255","XXX","blue","abc","GNL ","123.321","jean"
+"PORTHW","bbb","null","Server TAG",".net","2","255.225","XXX","green","hostname1","PRD","123.456.789","jacque"
+"PORTHW","ccc","null","Servertyp",".not","3",,"XXX","yeloow","ghi","GNL","456.654","gille"
+,,"null","ID",".not","4","234.554","XXX","red",,"PRD",,"bernard"
+"p","ddd","null",,".not","5","234.544","XXX","black","jkl","PRD","654.443",
+"END","END","END",,"END","END","END","END","END","END","END","END",
